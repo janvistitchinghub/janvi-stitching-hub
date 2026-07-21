@@ -520,3 +520,19 @@ header{
 #ceo p{
     color:#fff !important;
 }
+/* Review Card Text Fix */
+
+.review{
+    background:#ffffff !important;
+    color:#222 !important;
+}
+
+.review p{
+    color:#222 !important;
+    font-size:18px;
+    font-weight:500;
+}
+
+.review h3{
+    color:#c2185b !important;
+}
