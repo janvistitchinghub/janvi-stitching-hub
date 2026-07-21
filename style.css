@@ -536,3 +536,26 @@ header{
 .review h3{
     color:#c2185b !important;
 }
+/* ===== REVIEW FIX ===== */
+
+#reviews{
+    background:#000 !important;
+}
+
+#reviews h2{
+    color:#fff !important;
+}
+
+#reviews .review{
+    background:#fff !important;
+    color:#222 !important;
+}
+
+#reviews .review p{
+    color:#222 !important;
+}
+
+#reviews .review,
+#reviews .review *{
+    color:#222 !important;
+}
