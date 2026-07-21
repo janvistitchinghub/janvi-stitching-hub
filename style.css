@@ -490,3 +490,33 @@ header h1{
 }
 
 }
+/* Welcome Section */
+header{
+    background-color:#000 !important;
+}
+
+/* Reviews Section */
+#reviews{
+    background:#000 !important;
+    color:#fff !important;
+    padding:60px 20px;
+}
+
+#reviews h2,
+#reviews p{
+    color:#fff !important;
+}
+
+/* CEO Section */
+#ceo{
+    background:#000 !important;
+    color:#fff !important;
+    padding:60px 20px;
+}
+
+#ceo h2,
+#ceo h3,
+#ceo h4,
+#ceo p{
+    color:#fff !important;
+}
